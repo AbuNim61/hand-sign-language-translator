@@ -1,0 +1,15 @@
+0 aku
+1 duduk
+2 lihat
+3 pegang
+4 itu
+5 ini
+6 jalan
+7 motor
+8 dia
+9 kita
+10 bagus
+11 panas
+12 besar
+13 pelan
+14 pohon
